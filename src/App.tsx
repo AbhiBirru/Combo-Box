@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Accessible ComboBox Demo</h1>
+      <h1>Reusable ComboBox Component </h1>
       <ComboBox options={fruits} />
     </div>
   )
